@@ -1,0 +1,2 @@
+hello freinds this is my first repository example 
+and i try to connect this repository in my gitHUb server 
